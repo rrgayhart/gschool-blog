@@ -1,5 +1,9 @@
 # gSchool Blog
 
+Actual blog is now being kept at 
+<http://www.meekaetal.com/blawg>
+
+
 ```
 $ git clone git@github.com:YOURNAME/gschool-blog.git
 ```

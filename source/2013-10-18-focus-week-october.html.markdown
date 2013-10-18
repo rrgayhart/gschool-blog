@@ -1,6 +1,6 @@
 ---
 title: Focus Week - October
-date: 2013-10-11 15:40 UTC
+date: 2013-10-18 15:40 UTC
 tags: focus week
 ---
 
